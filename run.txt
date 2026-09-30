@@ -1,0 +1,14 @@
+pip install -U langchain langchain-core langchain-openai langchain-community langchain-text-splitters pypdf python-dotenv streamlit faiss-cpu
+
+requirements.txt
+langchain>=1.0
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+pypdf
+python-dotenv
+streamlit
+faiss-cpu
+
+streamlit run app.py

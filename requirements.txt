@@ -1,0 +1,9 @@
+langchain>=1.0
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+pypdfium2
+python-dotenv
+streamlit
+faiss-cpu==1.9.0
